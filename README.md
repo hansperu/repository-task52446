@@ -23,18 +23,18 @@ Simpson’s paradox is a well-known statistical paradox where a trend evident in
 
 ## References
 
-![Gender Bias in Admission Statistics? The Simpson-Paradox.](https://towardsdatascience.com/gender-bias-in-admission-statistics-the-simpson-paradox-cd381d994b16)
+[Gender Bias in Admission Statistics? The Simpson-Paradox.](https://towardsdatascience.com/gender-bias-in-admission-statistics-the-simpson-paradox-cd381d994b16)
 
-How To Code A Fair Coin Flip In Python — Regina Of Tech
+[How To Code A Fair Coin Flip In Python — Regina Of Tech](https://towardsdatascience.com/how-to-code-a-fair-coin-flip-in-python-d54312f33da9)
 
-Use Python to build a Dice Roller App
+[Use Python to build a Dice Roller App](https://towardsdatascience.com/use-python-to-build-a-dice-roller-app-2408e66bf009)
 
-How to Simulate a Dice Roll and Guess the Result in Python
+[How to Simulate a Dice Roll and Guess the Result in Python](https://medium.com/an-amygdala/how-to-simulate-a-dice-roll-and-guess-the-result-in-python-9785079af6f3)
 
-Counting the frequencies in a list using dictionary in Python
+[Counting the frequencies in a list using dictionary in Python](https://www.geeksforgeeks.org/counting-the-frequencies-in-a-list-using-dictionary-in-python/)
 
-Usar la Clase Counter para Calcular la Frecuencia de una Lista
+[Usar la Clase Counter para Calcular la Frecuencia de una Lista](https://www.youtube.com/watch?v=2iC8jDLkKwQ&feature=youtu.be)
 
-Is there a way to track the number of times a function is called?
+[Is there a way to track the number of times a function is called?](https://stackoverflow.com/questions/21716940/is-there-a-way-to-track-the-number-of-times-a-function-is-called)
 
 
