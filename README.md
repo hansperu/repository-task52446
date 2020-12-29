@@ -10,8 +10,9 @@ A series of examples has been provided for each of the works that give a better 
 ![imagen 1](https://camo.githubusercontent.com/04dc041570cb6cf2dce07a19befc674720235239/68747470733a2f2f7777772e696f74776f726c64746f6461792e636f6d2f66696c65732f323031392f30352f4765747479496d616765732d313034393333353034302d312e6a7067)
 
 ## Task 1
-Write a Python function called count that takes a list as input and returns a dictionary of unique items in the list as keys and the number of times each item appears as values. So the input ``['A', 'A', 'B','C', 'A']`` should have the output ``{A: 3, B: 1, C: 1}.``Your code should not depend on any module from the standard library1 or otherwise. You should research the task first and include a description with references of your algorithm in the
+Write a Python function called count that takes a list as input and returns a dictionary of unique items in the list as keys and the number of times each item appears as values. So the input ``['A', 'A', 'B','C', 'A']`` should have the output ``{A: 3, B: 1, C: 1}.``Your code should not depend on any module from the standard library(1) or otherwise. You should research the task first and include a description with references of your algorithm in the
 notebook.
+> (1) By the standard library, we mean the modules and packages that come as standard with Python. Anything built-in that can be used without an ``import`` statement can be used.
 
 ## Task 2
 Write a Python function called ``dicerolls`` that simulates rolling dice. Your function should take two parameters: the number of dice k and the number of times to roll the dice n. The function should simulate randomly rolling k dice n times, keeping track of each total face value. It should then return a dictionary with the number of times each possible total face value occurred. So, calling the function as ``diceroll(k=2, n=1000)`` should return a dictionary like: ``{2:19,3:50,4:82,5:112,6:135,7:174,8:133,9:114,10:75,11:70,12:36}``
