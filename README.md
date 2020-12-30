@@ -24,7 +24,52 @@ The ``numpy.random.binomial`` function can be used to simulate flipping a coin w
 ## Task 4
 Simpson’s paradox is a well-known statistical paradox where a trend evident in a number of groups reverses when the groups are combined into one big data set. Use numpy to create four data sets, each with an ``x`` array and a corresponding ``y`` array, to demonstrate Simpson’s paradox. You might create your ``x`` arrays using ``numpy.linspace`` and create the ``y`` array for each ``x`` using notation ``like y = a * x + b`` where you choose the ``a`` and ``b`` for each ``x`` , ``y`` pair to demonstrate the paradox. You might see the Wikipedia page for Simpson’s paradox for inspiration.
 
-## References
+# References
+## Books
+
+![Imagent](http://rps2images.ebscohost.com/rpsweb/othumb?id=NL$1084592$PDF&s=d)
+
+### Learning IPython for Interactive Computing and Data Visualization - Second Edition
+**Series:Community Experience Distilled**
+**Authors:** Rossant, Cyrille
+**Publication Information:** Ed.: Second edition. Birmingham, UK : Packt Publishing. 2015
+**Resource Type:** eBook
+
+![Imagent](http://rps2images.ebscohost.com/rpsweb/othumb?id=NL$1703793$PDF&s=d)
+
+### IPython Interactive Computing and Visualization Cookbook : Over 100 Hands-on Recipes to Sharpen Your Skills in High-performance Numerical Computing and Data Science in the Jupyter Notebook, 2nd Edition
+**Series:Community Experience Distilled**
+**Authors:** Rossant, Cyrille
+**Publication Information:** Ed.: Second edition. Birmingham : Packt Publishing. 2018
+**Resource Type:** eBook
+
+
+![Imagent](http://rps2images.ebscohost.com/rpsweb/othumb?id=NL$1841870$PDF&s=d)
+
+### Hands-On Data Analysis con NumPy y pandas: Implementar Python Paquetes De Datos manipulación para procesamiento
+**Authors:** Miller, Curtis
+**Publication Information:** Birmingham: Packt Publishing. 2018
+**Resource Type:** eBook
+
+![Imagent](http://rps2images.ebscohost.com/rpsweb/othumb?id=NL$880858$PDF&s=d)
+
+### Python Data Analysis
+**Series:Community Experience Distilled**
+**Authors:** Idris, Ivan
+**Publication Information:** Birmingham, U.K. : Packt Publishing. 2014
+**Resource Type:** eBook
+
+
+![Imagent](http://rps2images.ebscohost.com/rpsweb/othumb?id=NL$1495814$PDF&s=d)
+
+### Python Data Analysis - Second Edition
+**Authors:** Fandango, Armando
+**Publication Information:** Ed.: Second edition. Birmingham : Packt Publishing. 2017
+**Resource Type:** eBook
+
+
+
+## Web page references
 
 [Gender Bias in Admission Statistics? The Simpson-Paradox.](https://towardsdatascience.com/gender-bias-in-admission-statistics-the-simpson-paradox-cd381d994b16)
 
