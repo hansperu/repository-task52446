@@ -24,6 +24,12 @@ The ``numpy.random.binomial`` function can be used to simulate flipping a coin w
 ## Task 4
 Simpson’s paradox is a well-known statistical paradox where a trend evident in a number of groups reverses when the groups are combined into one big data set. Use numpy to create four data sets, each with an ``x`` array and a corresponding ``y`` array, to demonstrate Simpson’s paradox. You might create your ``x`` arrays using ``numpy.linspace`` and create the ``y`` array for each ``x`` using notation ``like y = a * x + b`` where you choose the ``a`` and ``b`` for each ``x`` , ``y`` pair to demonstrate the paradox. You might see the Wikipedia page for Simpson’s paradox for inspiration.
 
+In numerical analysis, Simpson's rule or method (named in honor of Thomas Simpson) and sometimes called Kepler's rule is a method of numerical integration that is used to obtain the approximation of the integral:
+
+![imagen algoritmo](https://wikimedia.org/api/rest_v1/media/math/render/svg/2c88a511d85fc5ad91c6ac0fc8d1869faf37db32)
+
+![imagen metodo simpson ilustracion](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Simpsons_method_illustration.svg/664px-Simpsons_method_illustration.svg.png)
+
 # References
 ## Books
 
