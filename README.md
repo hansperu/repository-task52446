@@ -7,7 +7,11 @@
 This work has been developed by searching for information in the GMIT library database and web pages.
 
 A series of examples has been provided for each of the works that give a better understanding of the magnitude of each task.
+
+
 ![imagen 1](https://camo.githubusercontent.com/04dc041570cb6cf2dce07a19befc674720235239/68747470733a2f2f7777772e696f74776f726c64746f6461792e636f6d2f66696c65732f323031392f30352f4765747479496d616765732d313034393333353034302d312e6a7067)
+
+**My final work on these tasks can be found in the Jupyter Notebook Python count.ipynb file.**
 
 ## Task 1
 Write a Python function called count that takes a list as input and returns a dictionary of unique items in the list as keys and the number of times each item appears as values. So the input ``['A', 'A', 'B','C', 'A']`` should have the output ``{A: 3, B: 1, C: 1}.``Your code should not depend on any module from the standard library(1) or otherwise. You should research the task first and include a description with references of your algorithm in the
